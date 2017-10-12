@@ -1,0 +1,41 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+	background-color: cadetblue; 
+}
+
+.storm {
+    text-align: center;
+    color:aliceblue;
+}
+
+
+.title1 {
+    color:aliceblue; 
+    float: left;
+    width: 33%;
+}
+
+.title2 {
+    color:aliceblue;
+    float: left;
+    width: 33%;
+}
+
+.title3 {
+    color:aliceblue; 
+    float: left;
+    width: 33%;
+}
+
+.h3 {
+    color: aliceblue;
+    text-align: center;
+    float: left;
+    width: 33%;
+}
+
+div {
+    background-color: darkblue;
+}
