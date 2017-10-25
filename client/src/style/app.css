@@ -36,7 +36,16 @@ h3 {
     width: 90%;
 }
 
+h4 {
+    text-align: center;
+    width: 90%;
+}
 p {
+    text-align: center;
+    width: 90%;
+}
+
+textarea{
     text-align: center;
     width: 90%;
 }
