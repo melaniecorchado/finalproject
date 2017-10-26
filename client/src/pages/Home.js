@@ -24,6 +24,9 @@ const Home = () =>
     </form>
 
         <h3> Chat </h3>
+<p>In order to access the chat you would need to create a login account.</p>
+
+<h4>Create Account</h4>
     
       
       </div>
