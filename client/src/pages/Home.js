@@ -9,7 +9,7 @@ const Home = () =>
       
        <h3> Welcome </h3>
 
-     <p> This site has been created to assist everyone that is about to experience or is going thru a natural disaster. </p>
+     <p> This site has been created to assist everyone that is about to experience or is going thru a natural disaster. It is divided into two sections: Community & Storm. In the Community section you will find links to resources to help out in your local area as well as a forum for you to post about whats going in your area. </p>
 
       <h3> Newsletter Sign Up </h3>
  
@@ -17,11 +17,13 @@ const Home = () =>
       
      <form>
       <label>
-        Email:
+       <p> Email: </p>
         <input type="text" name="name" />
       </label>
       <input type="submit" value="Submit" />
     </form>
+
+        <h3> Chat </h3>
     
       
       </div>

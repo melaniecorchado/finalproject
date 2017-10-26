@@ -2,7 +2,7 @@ body {
     width: 100%;
     margin: 0 auto;
     padding: 0;
-	background-color: cadetblue; 
+	background-color: midnightblue; 
 }
 
 .storm {
@@ -37,6 +37,7 @@ h3 {
 }
 
 h4 {
+    color: darkgray;
     text-align: center;
     width: 90%;
 }
@@ -46,8 +47,9 @@ h5 {
     width: 90%;
 }
 p {
+    color:darkseagreen;
     text-align: center;
-    width: 90%;
+    width: 80%;
 }
 
 textarea{
