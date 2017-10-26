@@ -18,8 +18,6 @@ const Forum = () => (
           <input type="submit" value="Submit" />
 
     
-    <Link to=""> </Link>
-    
     </div>
 
 )

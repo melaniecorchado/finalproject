@@ -13,7 +13,7 @@ const Community = () =>
       
     <h3 className="h3">Volunteer</h3>
  <Volunteer />
-    <h3 className="h3">Resource</h3>
+    <h3 className="h3">Resources</h3>
 <Resource />
     <h3 className="h3">Forum</h3>
 <Forum />      

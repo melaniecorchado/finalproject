@@ -10,12 +10,9 @@ const Volunteer = () => (
        Volunter Sources
     </h4>
     
-    <Link to="Learn More"> </Link>
+    <Link to="http://www.redcross.org/volunteer/volunteer-opportunities/disaster-volunteer">Red Cross </Link>
     
-    <h4> Volunteer Locations </h4>
-    
-    
-    <Link to="Learn More"> </Link>
+
     
     </div>
 

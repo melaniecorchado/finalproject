@@ -8,7 +8,8 @@ const Resource = () =>
      <div>
       
     <h4> </h4>
- 
+  
+    <Link to="https://disastersupplycenter.com/"> Disaster Supply Center</Link>
     <h4> </h4>
 
 
